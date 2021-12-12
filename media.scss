@@ -1,0 +1,57 @@
+@media (max-width: 1024px) {
+  .container{
+    width: 1000px;
+  }
+  #hero .hero__logo{
+    width: 850px;
+    height: 70px;
+    margin-top: 50px;
+    margin-left: 75px;
+  }
+  .hero__blocks__block2__img {
+    opacity: 0;
+    position: absolute;
+    width: 395px;
+    height: 259px;
+    margin-left: 301px;
+    margin-top: -256px;
+    animation: fdsseq 5s forwards;
+  }
+  .hero__blocks__block3__img {
+    width: 145px;
+    height: 152px;
+    position: absolute;
+    margin-top: -154px;
+    margin-left: 423px;
+    animation: scaling 1s ease-out forwards;
+  }
+}
+@media (max-width: 992px) {
+  .container{
+  }
+}@media (max-width: 768px) {
+  .container{
+
+  }
+}@media (max-width: 576px) {
+  .container{
+
+  }
+}@media (max-width: 414px) {
+  .container{
+
+  }
+}@media (max-width: 375px) {
+  .container{
+  }
+}
+@media (max-width: 340px) {
+  .container{
+
+  }
+}
+@media (max-width: 320px) {
+  .container{
+
+  }
+}
